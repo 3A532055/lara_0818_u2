@@ -5,7 +5,7 @@
     <body>
         @include('layouts.partials.navigation')
 
-        <divclass="container">
+        <div class="container">
 
             @yield('content')
 

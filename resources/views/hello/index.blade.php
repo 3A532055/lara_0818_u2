@@ -1,4 +1,4 @@
-<?php
+
 
 @extends('layouts.master')
 
@@ -6,6 +6,6 @@
 
 @section('content')
 
-    <h1>Thisis{{$name}}'shome.</h1>
-    
+    <h1>This is {{$name}}'s home.</h1>
+
 @endsection

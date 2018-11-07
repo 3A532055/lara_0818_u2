@@ -6,6 +6,6 @@
 
 @section('content')
 
-    <h1>This is {{$name}}'s home.</h1>
+    <p>This is {{$name}}'s home.</p>
 
 @endsection
